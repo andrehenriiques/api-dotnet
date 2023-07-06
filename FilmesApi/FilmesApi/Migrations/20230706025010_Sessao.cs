@@ -4,7 +4,7 @@
 
 namespace FilmesApi.Migrations
 {
-    public partial class Endereco : Migration
+    public partial class Sessao : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
